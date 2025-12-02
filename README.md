@@ -9,21 +9,6 @@ and fully aligned with the assignment requirements.
 
 ---
 
-## Project Structure
-
-opd_assignment/
-│
-├── opd.db                     # SQLite database containing all tables and data
-├── schema.sql                 # SQL script used to create all required tables
-│
-├── populate.py                # Script to generate branches, doctors, and 80,000 OPD visits
-├── populate_extra.py          # Script to generate diagnosis, prescriptions, and billing entries
-│
-├── sql_solutions.sql          # All analytical SQL queries (Tasks 1–8)
-│
-└── README.md                  # Complete explanation of approach, tools, decisions
-
----
 
 ## Tools & Libraries Used
 
